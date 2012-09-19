@@ -1,0 +1,3 @@
+[submodule "vendor/Jencil"]
+	path = vendor/Jencil
+	url = git://github.com/lambdalisue/Jencil.git
