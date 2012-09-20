@@ -1,4 +1,4 @@
-require "jencil-rails/version"
+require "jencil/rails/version"
 
 module Jencil
   module Rails
