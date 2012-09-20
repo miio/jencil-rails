@@ -1,5 +1,10 @@
 # Jencil::Rails
 
+jencil is markup editor. Powerd by lambdalisue
+
+https://github.com/lambdalisue/Jencil
+
+It gem are use jencil for Rails.
 
 ## Installation
 

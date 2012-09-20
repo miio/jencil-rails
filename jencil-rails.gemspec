@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Jencil::Rails::VERSION
   gem.authors       = ["miio"]
   gem.email         = ["info@miio.info"]
-  gem.description   = %q{Write a gem description}
-  gem.summary       = %q{Write a gem summary}
+  gem.description   = %q{It gem are use jencil for Rails.}
+  gem.summary       = %q{It gem are use jencil for Rails.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
