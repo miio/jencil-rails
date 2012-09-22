@@ -20,8 +20,31 @@ Or install it yourself as:
 
     $ gem install jencil-rails
 
-## Usage
+## Usage(Example)
 
+1.  add application.js
+
+```js
+//= require jencil
+
+```
+
+1.  add application.css
+
+```css
+@import 'jencil'
+```
+
+1.  call jencil text area
+
+```html
+
+<%= jencil_text_area 'demo', 'demo' =>
+
+## Depends gems
+
+* [[jquery-rails|https://github.com/indirect/jquery-rails]]
+* [[jquery-ui-rails|https://github.com/joliss/jquery-ui-rails]]
 
 ## Contributing
 
