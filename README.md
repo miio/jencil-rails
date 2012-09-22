@@ -42,8 +42,8 @@ Or install it yourself as:
 
 ## Depends gems
 
-* [[jquery-rails|https://github.com/indirect/jquery-rails]]
-* [[jquery-ui-rails|https://github.com/joliss/jquery-ui-rails]]
+* [jquery-rails](https://github.com/indirect/jquery-rails)
+* [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails)
 
 ## Contributing
 
