@@ -1,7 +1,7 @@
-require "jencil/rails/version"
-
 module Jencil
   module Rails
-    # Your code goes here...
+    require 'jencil/rails/engine' if defined?(Rails)
   end
 end
+
+require 'jencil/rails/jencil' if defined?(Rails)
