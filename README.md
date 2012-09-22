@@ -26,7 +26,6 @@ Or install it yourself as:
 
 ```js
 //= require jencil
-
 ```
 
 1.  add application.css
@@ -38,8 +37,8 @@ Or install it yourself as:
 1.  call jencil text area
 
 ```html
-
 <%= jencil_text_area 'demo', 'demo' =>
+```
 
 ## Depends gems
 
